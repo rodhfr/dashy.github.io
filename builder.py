@@ -154,7 +154,7 @@ def render(title: str, subtitle: str, links: list[dict[str, str]]) -> str:
       <div class="link-groups">
         {''.join(sections)}
       </div>
-      <footer class="site-footer">Feito para ser simples <span aria-hidden="true">·</span> configurado em <code>links.toml</code></footer>
+      <footer class="site-footer">configurado em <code>links.toml</code></footer>
     </main>
   </body>
 </html>
