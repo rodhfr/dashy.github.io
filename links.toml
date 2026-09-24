@@ -3,31 +3,6 @@ title = "Início"
 subtitle = "Centralizador de Links."
 
 [[links]]
-name = "GitHub Rodhfr"
-url = "https://github.com/rodhfr?tab=repositories"
-description = "Projetos e repositórios"
-group = "Desenvolvimento"
-icon = "simple-icons:github"
-
-[[links]]
-name = "Gmail"
-url = "https://mail.google.com"
-description = "Caixa de entrada"
-group = "Pessoal"
-
-[[links]]
-name = "Google Drive"
-url = "https://drive.google.com"
-description = "Arquivos e documentos"
-group = "Pessoal"
-
-[[links]]
-name = "YouTube"
-url = "https://youtube.com"
-description = "Vídeos para assistir depois"
-group = "Pessoal"
-
-[[links]]
 name = "MoeSeason Local"
 url = "http://192.168.1.180:5173"
 description = "Watch anime on localhost"
@@ -40,3 +15,11 @@ url = "http://ani.rodhfr.shop"
 description = "Watch anime on web"
 group = "Watch"
 icon = "arcticons:anime-center"
+
+[[links]]
+name = "GitHub Rodhfr"
+url = "https://github.com/rodhfr?tab=repositories"
+description = "Projetos e repositórios"
+group = "Desenvolvimento"
+icon = "simple-icons:github"
+
