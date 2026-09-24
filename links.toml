@@ -3,8 +3,8 @@ title = "Início"
 subtitle = "Centralizador de Links."
 
 [[links]]
-name = "GitHub"
-url = "https://github.com"
+name = "GitHub Rodhfr"
+url = "https://github.com/rodhfr?tab=repositories"
 description = "Projetos e repositórios"
 group = "Desenvolvimento"
 icon = "simple-icons:github"
