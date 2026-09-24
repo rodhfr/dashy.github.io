@@ -148,8 +148,6 @@ def render(title: str, subtitle: str, links: list[dict[str, str]]) -> str:
   <body>
     <main class="page-shell">
       <header class="site-header">
-        <div class="brand-mark" aria-hidden="true">✳</div>
-        <p class="eyebrow">SEU ESPAÇO NA WEB</p>
         <h1>{esc(title)}</h1>
         <p class="subtitle">{esc(subtitle)}</p>
       </header>
